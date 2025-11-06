@@ -1,2 +1,4 @@
 # Data-Structure-And-algo
-Here i am learning DSA
+Here I am learning DSA
+#array
+
