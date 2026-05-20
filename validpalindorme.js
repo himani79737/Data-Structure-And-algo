@@ -15,3 +15,5 @@ var isplaindrome = function(s){
 }
  return result;
 }
+console.log(isplaindrome(s));
+
